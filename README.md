@@ -9,7 +9,7 @@
 1. [배그 반동 세팅](#microsoft-visual-c-redistributable-packages)
 2. [배그 그래픽 세팅](#배그-그래픽-세팅)
 
-
+<hr>
 
 ### Microsoft Visual C++ Redistributable Packages
 
