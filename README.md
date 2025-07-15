@@ -46,10 +46,8 @@
   * [x64](https://download.microsoft.com/download/b/4/6/b46720b7-1a9a-458a-8b07-633e6de4e760/vcredist_x64.exe) *12.l0.30501* (EOL) `Microsoft.VCRdist.2013.x64`
   * [x86](https://download.microsoft.com/download/2/E/6/2E61CFA4-993B-4DD4-91DA-3737CD5CD6E3/vcredist_x86.exe) *12.0.30501* (EOL) `Microsoft.VCRedist.2013.x86`
 #### Microsoft Visual C++ 2015-2022 Redistributable Package
-  * [x64](https://download.visualstudio.microsoft.com/download/pr/c7dac50a-e3e8-40f6-bbb2-9cc4e3dfcabe/1821577409C35B2B9505AC833E246376CC68A8262972100444010B57226F0940/VC_redist.x64.exe)
-  * `Microsoft.VCRedist.2015+.x64` <br>
-  * [x86](https://download.visualstudio.microsoft.com/download/pr/84c7705c-37c2-44cb-9454-c0aadea5661b/DD1A8BE03398367745A87A5E35BEBDAB00FDAD080CF42AF0C3F20802D08C25D4/VC_redist.x86.exe)
-  * `Microsoft.VCRedist.2015+.x86` <br>
+  * [x64](https://download.visualstudio.microsoft.com/download/pr/c7dac50a-e3e8-40f6-bbb2-9cc4e3dfcabe/1821577409C35B2B9505AC833E246376CC68A8262972100444010B57226F0940/VC_redist.x64.exe)*14.42.34433*`Microsoft.VCRedist.2015+.x64` <br>
+  * [x86](https://download.visualstudio.microsoft.com/download/pr/84c7705c-37c2-44cb-9454-c0aadea5661b/DD1A8BE03398367745A87A5E35BEBDAB00FDAD080CF42AF0C3F20802D08C25D4/VC_redist.x86.exe)*14.42.34433*`Microsoft.VCRedist.2015+.x86` <br>
 
 
 
