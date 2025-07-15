@@ -8,6 +8,8 @@
 
 1. [배그 반동 세팅](#microsoft-visual-c-redistributable-packages)
 2. [배그 그래픽 세팅](#배그-그래픽-세팅)
+3. [ISLC](#ISLC)
+4. [바이오스 세팅](#BIOS)
 
 <hr>
 
@@ -55,4 +57,32 @@
 
 #### 전원 설정
 
-* 키보드 중, 윈도우 키 누름 -> '전원' 입력 후 Enter,   
+* 키보드 중, 윈도우 키 누름 -> '전원 관리 옵션' 입력 후 Enter, 상단 경로에 전원 옵션 으로 클릭 및 이동 -> 전원 옵션을 고성능으로 바꾸기
+
+
+
+#### Nvidia 전역 설정
+
+* 그래픽 프로세서 -> 자신의 그래픽 카드로, 저지연 모드 -> 울트라(다만, 사양에 맞춰서, 켜기, 끄기 선택. 4060, 3070 이상은 울트라로 해도 무방), 텍스쳐 필터링 -> 고성능, PhysX -> GPU, 수직 동기화 -> 끄기, 삼중 버퍼링 -> 끄기, 사전 렌더 -> 1 or 3, 그 외의 것 -> 끄기 or 기본값
+
+
+
+### ISLC
+
+#### ISLC (Intelligent Standby List Cleaner)란?
+
+* ISLC는 Windows 시스템 메모리 최적화 도구로, 특히 게임 중 램 누수, 스탠바이 메모리 누적, 입력 지연(Input Lag) 등을 줄이기 위해 사용됩니다.
+
+
+![사진 참고](1.png)
+
+* Total System Memory = Free Memory is lower than
+* The list size is at least = 가만히
+* Wanted timer Resolution -> 0.5
+* Start ISCminimized and auto-Start monitoring -> 체크
+* Launch ISLC on user logon. (TaskScheduler) -> 체크
+<br>
+* 상세한 설명은 ISLC 치고, 구글 가보면 여러 설명이 나와있으니 참고하세요.
+<br>
+>[!CAUTION]
+> 지금부터 나열하는 모든 항목은 따라 하실분만 따라 하는 항목입니다. 저는 아래에 나오는 항목대로 세텡하고 사용하였고, 각종 오류는 생기지 않았습니다. 하지만 몇몇분들은 블루스크린(그 이상은 오류 없음) 으로 초래할수도 있습니다. 그럴 경우 Free Memory is lower than 항목을 자신의 메모리의 절반으로 설정하시면 문제가 없습니다.
