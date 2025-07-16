@@ -8,10 +8,12 @@
 > 원격을 받을시, 피원격자(원격을 받는 사람)의 모든 개인정보는 그 어느 곳이나, 특정 사람에게 발설하지 않을것을 맹세합니다. 또한 피원격자는 원격자(또는 원격 제어자)에게 모든 요구사항을 행사할 권리가 있음을 밝힙니다.
 
 
+
 > 이 문서는 한국어로 만들었습니다.
 > 또한, 그래픽 설정 같은 경우, 따라 하셔도 되고, 안따라 하셔도 됩니다. 이 그래픽 세팅 값은 제가 게임 했을떄 설정한 세팅 값이며, 성능이 현저히 떨어지시는 분들을 위한 세팅입니다.
 
-> This document is written in Korean. Also, the graphics settings shown here are based on the author's own setup and intended to help those experiencing performance issues. You may choose to follow or not.
+<a name="README_ENG.md"></a>
+## English
 
 ## 목차
 

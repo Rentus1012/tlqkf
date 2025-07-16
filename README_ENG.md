@@ -9,6 +9,9 @@
 <br>
 > This document was originally written in Korean. The graphics settings presented here are based on the author's personal setup and are intended to help those experiencing severe performance issues. Feel free to follow or modify them according to your needs.
 
+<a name="README_ENG.md"></a>
+## 한국어
+
 ## Table of Contents
 
 1. [Microsoft Visual C++ Redistributables](#1-microsoft-visual-c-redistributable-packages-pubg-requirements)
