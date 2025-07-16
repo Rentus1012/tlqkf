@@ -7,7 +7,7 @@
 > When receiving remote support, the support recipient (the one being assisted) is guaranteed that no personal information will be disclosed to anyone or anywhere. The recipient also has the full right to make requests or instructions to the remote supporter (or controller) during the session.
 <br>
 <br>
-[설정 가이드 보기](./README.md)
+[설정 가이드 보기](https://github.com/Rentus1012/tlqkf/blob/main/README.md)
 
 
 

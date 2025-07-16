@@ -14,7 +14,7 @@
 
 <br>
 <br>
-[go to setting guide](./README_ENG.md)
+[go to setting guide](https://github.com/Rentus1012/tlqkf/blob/main/README_ENG.md)
 
 ## 목차
 1. [PUBG Recoil Settings](#microsoft-visual-c-redistributable-packages)
