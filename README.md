@@ -1,14 +1,34 @@
+# > [!INFO]
+# > This document is originally written in Korean. English translation is provided below each section. Please refer accordingly.
+
 # PUBG Recoil, other settings
 
 
 > [!NOTE]
-> 모든 문의나 원격이 필요하신 분들은 텔레그램 @shoon1012, 혹은 seunghoon.co.1@gmail.com, 디스코드 shoon_.04 로 연락 주세요.
+> 모든 문의나 원격이 필요하신 분들은 텔레그램 @shoon1012, 혹은 seunghoon.no.1@gmail.com, 디스코드 shoon_.04 로 연락 주세요.
+<br>
+> [!NOTE]
+> For any inquiries or if you need remote support, please contact via Telegram @shoon1012, or email seunghoon.no.1@gmail.com, or Discord: shoon_.04
 
 
-> 이 문서는 한국어로 만들었습니다. 영어로 보고 싶으신 분들은 추후에 만들 예정이니, 시간을 갖고 기다려주시면 빠르게 만들도록 하겠습니다. 감사합니다.
+> 원격을 받을시, 피원격자(원격을 받는 사람)의 모든 개인정보는 그 어느 곳이나, 특정 사람에게 발설하지 않을것을 맹세합니다. 또한 피원격자는 원격자(또는 원격 제어자)에게 모든 요구사항을 행사할 권리가 있음을 밝힙니다.
+
+> When receiving remote support, the remote recipient (the one being supported) is guaranteed that no personal information will be disclosed to anyone or any place. The recipient also reserves the right to request or instruct the remote supporter (or remote controller) during the session.
+
+
+> 이 문서는 한국어로 만들었습니다.
 > 또한, 그래픽 설정 같은 경우, 따라 하셔도 되고, 안따라 하셔도 됩니다. 이 그래픽 세팅 값은 제가 게임 했을떄 설정한 세팅 값이며, 성능이 현저히 떨어지시는 분들을 위한 세팅입니다.
 
+> This document is written in Korean. Also, the graphics settings shown here are based on the author's own setup and intended to help those experiencing performance issues. You may choose to follow or not.
+
 ## 목차
+
+## Table of Contents
+
+1. [PUBG Recoil Settings](#microsoft-visual-c-redistributable-packages)
+2. [PUBG Graphics Settings](#배그-그래픽-세팅)
+3. [ISLC](#ISLC)
+4. [BIOS Settings](#BIOS)
 
 1. [배그 반동 세팅](#microsoft-visual-c-redistributable-packages)
 2. [배그 그래픽 세팅](#배그-그래픽-세팅)
@@ -17,7 +37,7 @@
 
 <hr>
 
-### 1. Microsoft Visual C++ Redistributable Packages
+### 1. Microsoft Visual C++ Redistributable Packages (PUBG Requirements)
 
 > [!IMPORTANT]
 > 이 해당 버전을 다운로드 받을때, 2005 패키지는 사용 되지 않습니다. 다만, 2005를 제외한 모든 버전은 모든 버전을 삭제하시고 진행하셔야 합니다.
@@ -33,7 +53,7 @@
 
 * Detailed install 누르시고, 사진 순서대로 해주세요. 
 
-[사진 참고](2.png)
+![사진 참고](2.png)
 
 # 다만, 마구잡이로 누르시면 안되고, 광고가 2번 정도 포함되어있으니, 꼭 거절 누르셔야 합니다.
 
@@ -61,7 +81,7 @@
 
 
 
-### 2. 배그 그래픽 세팅
+### 2. PUBG Graphics Settings
 
 
 따라 하셔도 되고, 안따라 하셔도 됩니다. 이 그래픽 세팅 값은 제가 게임 했을떄 설정한 세팅 값이며, 성능이 현저히 떨어지시는 분들을 위한 세팅입니다.
@@ -79,7 +99,7 @@
 
 
 
-### 3. ISLC
+### 3. ISLC (Memory Optimization Tool)
 
 #### ISLC (Intelligent Standby List Cleaner)란?
 
@@ -105,6 +125,6 @@
 <br>
 <br>
 
-### 4. BIOS
+### 4. BIOS Settings
 
 * 따로 설명할 내용이 없습니다. 자신의 맞는 메인보드, 혹은 cpu의 모델명을 보시고, 그대로 인터넷에 치셔서 할수 있는 세팅들을 찾아보세요.
