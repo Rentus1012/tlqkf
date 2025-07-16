@@ -1,15 +1,9 @@
-# > [!INFO]
-# > This document is originally written in Korean. English translation is provided below each section. Please refer accordingly.
-
 # PUBG Recoil, other settings
 
 
 > [!NOTE]
 > 모든 문의나 원격이 필요하신 분들은 텔레그램 @shoon1012, 혹은 seunghoon.no.1@gmail.com, 디스코드 shoon_.04 로 연락 주세요.
 <br>
-> [!NOTE]
-> For any inquiries or if you need remote support, please contact via Telegram @shoon1012, or email seunghoon.no.1@gmail.com, or Discord: shoon_.04
-
 
 > 원격을 받을시, 피원격자(원격을 받는 사람)의 모든 개인정보는 그 어느 곳이나, 특정 사람에게 발설하지 않을것을 맹세합니다. 또한 피원격자는 원격자(또는 원격 제어자)에게 모든 요구사항을 행사할 권리가 있음을 밝힙니다.
 
