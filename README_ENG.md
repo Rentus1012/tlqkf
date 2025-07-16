@@ -7,6 +7,10 @@
 > When receiving remote support, the support recipient (the one being assisted) is guaranteed that no personal information will be disclosed to anyone or anywhere. The recipient also has the full right to make requests or instructions to the remote supporter (or controller) during the session.
 <br>
 <br>
+[설정 가이드 보기](./README.md)
+
+
+
 
 > This document was originally written in Korean. The graphics settings presented here are based on the author's personal setup and are intended to help those experiencing severe performance issues. Feel free to follow or modify them according to your needs.
 

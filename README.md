@@ -12,13 +12,11 @@
 > 이 문서는 한국어로 만들었습니다.
 > 또한, 그래픽 설정 같은 경우, 따라 하셔도 되고, 안따라 하셔도 됩니다. 이 그래픽 세팅 값은 제가 게임 했을떄 설정한 세팅 값이며, 성능이 현저히 떨어지시는 분들을 위한 세팅입니다.
 
-<a name="README.md"></a>
-## English
+<br>
+<br>
+[go to setting guide](./README_ENG.md)
 
 ## 목차
-
-## Table of Contents
-
 1. [PUBG Recoil Settings](#microsoft-visual-c-redistributable-packages)
 2. [PUBG Graphics Settings](#배그-그래픽-세팅)
 3. [ISLC](#ISLC)
