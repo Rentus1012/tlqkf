@@ -17,19 +17,15 @@
 [go to setting guide](https://github.com/Rentus1012/tlqkf/blob/main/README_ENG.md)
 
 ## 목차
-1. [PUBG Recoil Settings](#microsoft-visual-c-redistributable-packages)
-2. [PUBG Graphics Settings](#배그-그래픽-세팅)
-3. [ISLC](#ISLC)
-4. [BIOS Settings](#BIOS)
 
-1. [배그 반동 세팅](#microsoft-visual-c-redistributable-packages)
+1. [배그 반동 세팅](#Microsoft-Visual-C++-Redistributable-Packages)
 2. [배그 그래픽 세팅](#배그-그래픽-세팅)
 3. [ISLC](#ISLC)
 4. [바이오스 세팅](#BIOS)
 
 <hr>
 
-### 1. Microsoft Visual C++ Redistributable Packages (PUBG Requirements)
+### Microsoft Visual C++ Redistributable Packages
 
 > [!IMPORTANT]
 > 이 해당 버전을 다운로드 받을때, 2005 패키지는 사용 되지 않습니다. 다만, 2005를 제외한 모든 버전은 모든 버전을 삭제하시고 진행하셔야 합니다.
@@ -73,7 +69,7 @@
 
 
 
-### 2. PUBG Graphics Settings
+### 배그 그래픽 세팅
 
 
 따라 하셔도 되고, 안따라 하셔도 됩니다. 이 그래픽 세팅 값은 제가 게임 했을떄 설정한 세팅 값이며, 성능이 현저히 떨어지시는 분들을 위한 세팅입니다.
@@ -91,7 +87,7 @@
 
 
 
-### 3. ISLC (Memory Optimization Tool)
+### ISLC
 
 #### ISLC (Intelligent Standby List Cleaner)란?
 
@@ -117,6 +113,6 @@
 <br>
 <br>
 
-### 4. BIOS Settings
+### BIOS
 
 * 따로 설명할 내용이 없습니다. 자신의 맞는 메인보드, 혹은 cpu의 모델명을 보시고, 그대로 인터넷에 치셔서 할수 있는 세팅들을 찾아보세요.

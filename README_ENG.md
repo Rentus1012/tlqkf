@@ -17,14 +17,14 @@
 
 ## Table of Contents
 
-1. [Microsoft Visual C++ Redistributables](#1-microsoft-visual-c-redistributable-packages-pubg-requirements)
-2. [PUBG Graphics Settings](#2-pubg-graphics-settings)
-3. [ISLC (Memory Optimization Tool)](#3-islc-memory-optimization-tool)
-4. [BIOS Settings](#4-bios-settings)
+1. [Microsoft Visual C++ Redistributables](#Microsoft-Visual-C++-Redistributable-Packages)
+2. [PUBG Graphics Settings](#PUBG-Graphics-Settings)
+3. [ISLC (Memory Optimization Tool)](#ISLC)
+4. [BIOS Settings](#BIOS-settings)
 
 ---
 
-### 1. Microsoft Visual C++ Redistributable Packages (PUBG Requirements)
+### Microsoft Visual C++ Redistributable Packages
 
 > [!TIP] 
 > Do not install the 2005 package. For all other versions, uninstall any existing versions before proceeding with installation.  
@@ -68,7 +68,7 @@
 
 ---
 
-### 2. PUBG Graphics Settings
+### PUBG Graphics Settings
 
 These settings are based on the author’s personal setup. You may follow or adjust based on your system.
 
@@ -89,7 +89,7 @@ These settings are based on the author’s personal setup. You may follow or adj
 
 ---
 
-### 3. ISLC (Memory Optimization Tool)
+### ISLC
 
 #### What is ISLC?
 
@@ -110,6 +110,6 @@ For more details, search for ISLC on Google and refer to community guides.
 
 ---
 
-### 4. BIOS Settings
+### BIOS Settings
 
 There is no one-size-fits-all setup. Please search for your specific motherboard or CPU model online to find optimal BIOS settings for performance or gaming.
