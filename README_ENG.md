@@ -2,12 +2,13 @@
 
 > [!NOTE]
 > For any inquiries or if you need remote support, please contact via Telegram: @shoon1012, Email: seunghoon.no.1@gmail.com, or Discord: shoon_.04
-
+<br>
  
 > When receiving remote support, the support recipient (the one being assisted) is guaranteed that no personal information will be disclosed to anyone or anywhere. The recipient also has the full right to make requests or instructions to the remote supporter (or controller) during the session.
 <br>
 <br>
-[설정 가이드 보기](https://github.com/Rentus1012/tlqkf/blob/main/README.md)
+
+[한국어로 된 설정 가이드를 보고 싶으면, 여기를 클랙 하세요.](https://github.com/Rentus1012/tlqkf/blob/main/README.md)
 
 
 

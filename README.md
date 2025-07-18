@@ -13,7 +13,7 @@
 <br>
 <br>
 
-[go to setting guide](https://github.com/Rentus1012/tlqkf/blob/main/README_ENG.md)
+[if you see a English Guide, Click Here.](https://github.com/Rentus1012/tlqkf/blob/main/README_ENG.md)
 
 ## 목차
 
