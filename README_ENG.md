@@ -28,7 +28,7 @@
 
 ### Microsoft Visual C++ Redistributable Packages
 
-> [!TIP] 
+> [!IMPORTANT] 
 > Do not install the 2005 package. For all other versions, uninstall any existing versions before proceeding with installation.  
 > Note that each version has an end-of-life (EOL) date. You may continue using them past that date, but if issues arise, please install the latest version manually.
 
