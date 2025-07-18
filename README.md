@@ -5,7 +5,7 @@
 > 모든 문의나 원격이 필요하신 분들은 텔레그램 @shoon1012, 혹은 seunghoon.no.1@gmail.com, 디스코드 shoon_.04 로 연락 주세요.
 <br>
 
-> 원격을 받을시, 피원격자(원격을 받는 사람)의 모든 개인정보는 그 어느 곳이나, 특정 사람에게 발설하지 않을것을 맹세합니다. 또한 피원격자는 원격자(또는 원격 제어자)에게 모든 요구사항을 행사할 권리가 있음을 밝힙니다.
+> [!IMPORTANT] 원격을 받을시, 피원격자(원격을 받는 사람)의 모든 개인정보는 그 어느 곳이나, 특정 사람에게 발설하지 않을것을 맹세합니다. 또한 피원격자는 원격자(또는 원격 제어자)에게 모든 요구사항을 행사할 권리가 있음을 밝힙니다.
 <br>
 
 > 이 문서는 한국어로 만들었습니다.
@@ -14,7 +14,7 @@
 <br>
 <br>
 
-[if you see a English Guide, Click Here.](https://github.com/Rentus1012/tlqkf/blob/main/README_ENG.md)
+* [if you see a English Guide, Click Here.](https://github.com/Rentus1012/tlqkf/blob/main/README_ENG.md)
 
 ## 목차
 
@@ -95,7 +95,7 @@
 
 <br>
 
->[!WARNING]
+>[!CAUTION]
 > 지금부터 나열하는 모든 항목은 따라 하실분만 따라 하는 항목입니다. 저는 아래에 나오는 항목대로 세텡하고 사용하였고, 각종 오류는 생기지 않았습니다. 하지만 몇몇분들은 블루스크린(그 이상은 오류 없음) 으로 초래할수도 있습니다. 그럴 경우 Free Memory is lower than 항목을 자신의 메모리의 절반으로 설정하시면 문제가 없습니다.
 <br>
 

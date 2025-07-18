@@ -4,6 +4,7 @@
 > For any inquiries or if you need remote support, please contact via Telegram: @shoon1012, Email: seunghoon.no.1@gmail.com, or Discord: shoon_.04
 <br>
  
+> [!IMPORTANT]
 > When receiving remote support, the support recipient (the one being assisted) is guaranteed that no personal information will be disclosed to anyone or anywhere. The recipient also has the full right to make requests or instructions to the remote supporter (or controller) during the session.
 <br>
 <br>
@@ -34,7 +35,9 @@
 > [!TIP]
 > According to user 93rk, installing the Windows 11 Codec Pack made recoil control feel more responsive. While the author did not notice much difference, it may vary by user. It's worth trying out if you're curious.
 
-[x64 Download](https://www.windows11codecpack.com/files/windows.11.codec.pack.v2.2.1.setup.exe) – **Windows 11 Codec Pack**  
+[x64 Download](https://www.windows11codecpack.com/files/windows.11.codec.pack.v2.2.1.setup.exe) – **Windows 11 Codec Pack**
+<br>
+
 > [!CAUTION] 
 > Only download from the official link above or from [https://www.windows11codecpack.com](https://www.windows11codecpack.com). Installing from unofficial sites may include malware or adware.
 
@@ -96,7 +99,7 @@ These settings are based on the author’s personal setup. You may follow or adj
 
 ISLC (Intelligent Standby List Cleaner) is a memory optimization tool for Windows. It helps reduce RAM leaks, standby memory buildup, and input lag, especially useful during gaming.
 
-> [!WARNING]
+> [!CAUTION]
 > Apply the following settings only if you understand the risks. The author uses these settings without issue, but some users have reported rare cases of BSOD. If that happens, try setting the "Free Memory is lower than" value to half your total system memory.
 
 ![ISLC Settings](1.png)
