@@ -19,7 +19,7 @@
 
 ## Table of Contents
 
-1. [Microsoft Visual C++ Redistributables](#PUBG-Recoil-Settings)
+1. [PUBG Recoil Settings](#PUBG-Recoil-Settings)
 2. [PUBG Graphics Settings](#PUBG-Graphics-Settings)
 3. [ISLC (Memory Optimization Tool)](#ISLC)
 4. [BIOS Settings](#BIOS-settings)
