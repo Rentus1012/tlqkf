@@ -37,6 +37,8 @@
 반면, 이 글을 작성하고 있는 필자 본인의 경우에는 큰 차이를 체감하진 못했지만, 모든 사람이 똑같이 느끼는 건 아니기에, 혹시 궁금하다면 한 번쯤 설치해 보는 것도 나쁘지 않을 것 같습니다.
 
 [x64](https://www.windows11codecpack.com/files/windows.11.codec.pack.v2.2.1.setup.exe) `Windows 11 Codec Pack`
+<br>
+
 > [!CAUTION]
 > 사실 이건 경고 아닌 경고인데, 이 링크는 모르겠지만, 긴혹 이상한 사이트에서 다룬로드 받아서 설치하시는 분들이 있더라고요. 꼭 이 링크 안에서 다운로드를 받으시거나, https://www.windows11codecpack.com 여기서 받으셔야 문제가 없습니다. 참고해주세요.
 
