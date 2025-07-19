@@ -19,14 +19,14 @@
 
 ## Table of Contents
 
-1. [Microsoft Visual C++ Redistributables](#Microsoft-Visual-C++-Redistributable-Packages)
+1. [Microsoft Visual C++ Redistributables](#PUBG-Recoil-Settings)
 2. [PUBG Graphics Settings](#PUBG-Graphics-Settings)
 3. [ISLC (Memory Optimization Tool)](#ISLC)
 4. [BIOS Settings](#BIOS-settings)
 
 ---
 
-### Microsoft Visual C++ Redistributable Packages
+## PUBG Recoil Settings
 
 > [!IMPORTANT] 
 > Do not install the 2005 package. For all other versions, uninstall any existing versions before proceeding with installation.  

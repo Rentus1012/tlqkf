@@ -1,4 +1,4 @@
-# PUBG Recoil, other settings
+# 배그 반동, 그래픽 세팅
 
 
 > [!NOTE]
@@ -19,14 +19,14 @@
 
 ## 목차
 
-1. [배그 반동 세팅](#Microsoft-Visual-C++-Redistributable-Packages)
+1. [배그 반동 세팅](#배그-반동-세팅)
 2. [배그 그래픽 세팅](#배그-그래픽-세팅)
 3. [ISLC](#ISLC)
 4. [바이오스 세팅](#BIOS)
 
 <hr>
 
-### Microsoft Visual C++ Redistributable Packages
+## 배그 반동 세팅
 
 > [!IMPORTANT]
 > 이 해당 버전을 다운로드 받을때, 2005 패키지는 사용 되지 않습니다. 다만, 2005를 제외한 모든 버전은 모든 버전을 삭제하시고 진행하셔야 합니다.
