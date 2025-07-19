@@ -44,7 +44,8 @@
 * Click "Detailed install" and follow the steps in the image below:  
 ![Install Guide](2.png)
 
-> ⚠ Be cautious: two ads may appear during installation. Make sure to decline them.
+> [!IMPORTANT]
+> two ads may appear during installation. Make sure to decline them.
 
 #### Microsoft Visual C++ Redistributable Downloads
 
