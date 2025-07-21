@@ -156,5 +156,19 @@
 > 설정 가이드를 보고 따라 하시거나, 유튜브에도 해당 자료가 상세하게 나와있으니, 그걸 따라하셔도 무방합니다.
 
 
-* [1.](https://download.ameliorated.io/AME%20Wizard%20Beta.zip) `AWE Wizard Beta`
-* [2.](https://cdn.jsdelivr.net/atlas/0.4.1/AtlasPlaybook_v0.4.1.zip) `Atlas PlayBook 0.4.1`
+* [AWE Wizard Beta.zip](https://download.ameliorated.io/AME%20Wizard%20Beta.zip)
+* [Atlas PlayBook 0.4.1 - 2025.7.21 기준 최신](https://cdn.jsdelivr.net/atlas/0.4.1/AtlasPlaybook_v0.4.1.zip)
+
+* 첫번째 항목과 두번쨰 항목을 한번에 다운로드 하신후, 각각 압축을 풀어주세요.
+
+* 첫번째 항목을 압축 해제 후 실행 -> 그 다음, 다운로드 한 atlas playbook 을 압축 해제 하시면 -> apbx 확장자로 된 페기지를 실행하신 프로그앰의 왼쪽 칸에 옯기고, 실행해주세요.
+
+>[!CAUTION]
+> 추후에 설명 ㅡ리지만, 이 프로그램은 윈도우 디펜더를 비활성화, 활성화 하는 옵션이 포함되어있어서, 기본적으로 윈도우 디펜더를 끄지 않는 이상은 그 후 진행이 불가합니다, 이점 참고해주세요.
+
+> 실시간 보호 기능을 포함한 모든 보안 항목을 비활성화 하고, 창을 닫아주세요.
+
+>[!IMPORTANT]
+> 그 후, 윈도우 비활성화 할지 활성화 할지는 개인의 몫입니다. 다만, 윈도우 디펜더를 비활성화 하겠다는 항목을 체크 하시면, 메모리 점유율이 감소합니다. 그 외에도 자신이 선호하는 브라우저나, 제거할 브라우저를 선택할수 있습니다. 필자는 firefox를 선호합니다.
+
+* 그 이상으로는 전부 다 개인의 몫입니다. 이 외에도, 더 도움을 받고 싶으시면, 위에 나와있는 연락처로 연락 주시면 친절하게 도와드리겠습니다.
